@@ -43,6 +43,3 @@ gurvindermudharwork@gmail.com
 This policy may be updated if the app's data practices change. The effective date
 above will be revised when an update is published.
 
----
-
-Draft for review before publication; this is not legal advice.
